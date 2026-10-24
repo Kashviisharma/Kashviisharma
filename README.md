@@ -49,4 +49,5 @@ I enjoy turning ideas into working projects, exploring emerging AI technologies,
 ---
 
 ⭐ Always learning. Always building.
+![Hits](https://seeyoufarm.com)
 
