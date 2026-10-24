@@ -49,7 +49,8 @@ I enjoy turning ideas into working projects, exploring emerging AI technologies,
 ---
 
 ⭐ Always learning. Always building.
-![Views](https://shields.io)
+![Views](https://visitorbadge.io)
+
 
 
 
