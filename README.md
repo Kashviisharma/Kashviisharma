@@ -49,6 +49,7 @@ I enjoy turning ideas into working projects, exploring emerging AI technologies,
 ---
 
 ⭐ Always learning. Always building.
-![Views](https://github.io)
+<img width="552" height="436" alt="image" src="https://github.com/user-attachments/assets/fa785d4e-0b54-4126-b425-7c2594d53b07" />
+
 
 
