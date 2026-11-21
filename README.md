@@ -1,6 +1,6 @@
 # Hi, I'm Kashvi 👋
 
-I'm a B.Tech Computer Science & Engineering (AI & ML) student interested in building practical applications with Artificial Intelligence, Machine Learning, and Full Stack Development.
+I'm a B.Tech Computer Science & Engineering (AI & ML) student interested in building practical applications with Artificial Intelligence and Full Stack Development.
 
 I enjoy turning ideas into working projects, exploring emerging AI technologies, and strengthening my problem-solving skills through **Data Structures & Algorithms**.
 
@@ -19,7 +19,7 @@ I enjoy turning ideas into working projects, exploring emerging AI technologies,
 
 **AI / ML**
 
-`NumPy` `Pandas` `Scikit-learn` `Machine Learning`
+`NumPy` `Pandas` `Scikit-learn` 
 
 **Web Development**
 
