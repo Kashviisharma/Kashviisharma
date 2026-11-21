@@ -36,12 +36,6 @@ I enjoy turning ideas into working projects, exploring emerging AI technologies,
 * **Full Stack Projects** — Web applications built while exploring modern frontend and backend technologies.
 * **LLM Comparative Study** — Research-oriented exploration of Large Language Models.
 
-## 🌱 Currently Learning
-
-* Machine Learning foundations
-* Large Language Models & Generative AI
-* Full Stack Development
-* Data Structures & Algorithms
 
 ## 📫 Connect With Me
 * 📧 [Email](kashvi.sharma.eng@gmail.com)
